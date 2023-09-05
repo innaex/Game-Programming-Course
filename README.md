@@ -1,9 +1,12 @@
 # Game Programming Course
 
 [Useful Links]
-[Unity Cheatsheet](https://github.com/ozankasikci/unity-cheat-sheet)
-[Comparison to Java & C#](https://sites.harding.edu/fmccown/java_csharp_comparison.html)
-[itslearning C# cheatsheet](https://sdu.itslearning.com/ContentArea/ContentArea.aspx?LocationID=27847&LocationType=1&ElementID=1185770)
+
+-[Unity Cheatsheet](https://github.com/ozankasikci/unity-cheat-sheet)
+
+-[Comparison to Java & C#](https://sites.harding.edu/fmccown/java_csharp_comparison.html)
+
+-[itslearning C# cheatsheet](https://sdu.itslearning.com/ContentArea/ContentArea.aspx?LocationID=27847&LocationType=1&ElementID=1185770)
 
 [Exam Questions]
 
